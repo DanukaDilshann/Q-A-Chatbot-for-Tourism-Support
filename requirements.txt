@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+streamlit
+langchain-huggingface
+huggingface_hub
+langchain
+transformers
+accelerate
+bitsandbytes
+
